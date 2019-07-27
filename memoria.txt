@@ -1,0 +1,5 @@
+- He utilizado las transparencias de Samir Genaim para el desarrollo del proyecto.
+- Incorpora 4 juegos diferentes: Tic-Tac-Toe, Wolf And Sheeps, Damas Chinas, Chess.
+- Incorpora nuevos componentes gráficos: Chat, CommonWindow (Stadistics), Emulation (Rnd vs Rnd), JCrossTable.
+- Se aplican en el proyecto los siguientes patrones de diseño: Model View Controller, Bridge, Observer - Observable, Memento, Mediator.
+
